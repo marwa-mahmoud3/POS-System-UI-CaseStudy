@@ -62,7 +62,7 @@ This project represents a defining moment in my professional growth. It began as
 
 ---
 
-## 👤 About the Developer
+## 👤 About Me
 
 **Name:** Marwa Mahmoud Mohamed
 
